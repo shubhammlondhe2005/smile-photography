@@ -37,7 +37,7 @@ export const services = [
     title: 'Cinematic Videography',
     description: 'Turn your moments into cinematic stories.',
     image: '/pre wedding img.jpg',
-    video: '/cinematic videography.mp4.MOV',
+    video: 'https://drive.google.com/uc?export=download&id=1yze_uGRHqeHjxpMR7Kn-hi83MJiBivK8',
     category: 'Video',
     includes: ['4K filming', 'Drone shots', 'Highlights reel', 'Cinematic color grading'],
   },
