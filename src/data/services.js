@@ -11,7 +11,7 @@ export const services = [
     id: 2,
     title: 'Pre-Wedding Photography',
     description: 'Romantic stories in stunning locations.',
-    image: '/pre wedding img.jpg',
+    image: '/pre wedding photos/pre wedding img.jpg',
     category: 'Pre-Wedding',
     includes: ['Location scouting', 'Outfit changes', 'Cinematic edits', 'Social media ready'],
   },
