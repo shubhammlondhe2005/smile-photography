@@ -19,7 +19,7 @@ export const services = [
     id: 3,
     title: 'Engagement Photography',
     description: 'Celebrating the beginning of a new journey.',
-    image: '/engagement_img.jpg',
+    image: '/engagement photos/engagement_img.jpg',
     category: 'Engagement',
     includes: ['Couple portraits', 'Ring details', 'Natural light shots', 'Quick turnaround'],
   },
