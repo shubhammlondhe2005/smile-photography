@@ -1,0 +1,18 @@
+export const gallery = [
+  { id: 1, src: '/our captures/baby1.jpeg', category: 'Baby', title: 'Baby Photography 1' },
+  { id: 2, src: '/our captures/baby2.jpeg', category: 'Baby', title: 'Baby Photography 2' },
+  { id: 3, src: '/our captures/baby3.jpeg', category: 'Baby', title: 'Baby Photography 3' },
+  { id: 4, src: '/our captures/baby4.jpeg', category: 'Baby', title: 'Baby Photography 4' },
+  { id: 5, src: '/our captures/portrait1.jpeg', category: 'Portrait', title: 'Portrait Session 1' },
+  { id: 6, src: '/our captures/portrait2.jpeg', category: 'Portrait', title: 'Portrait Session 2' },
+  { id: 7, src: '/our captures/portrait3.jpeg', category: 'Portrait', title: 'Portrait Session 3' },
+  { id: 8, src: '/our captures/prewedding1.jpeg', category: 'Pre-Wedding', title: 'Pre-Wedding Shoot 1' },
+  { id: 9, src: '/our captures/prewedding2.jpeg', category: 'Pre-Wedding', title: 'Pre-Wedding Shoot 2' },
+  { id: 10, src: '/our captures/prewedding3.jpeg', category: 'Pre-Wedding', title: 'Pre-Wedding Shoot 3' },
+  { id: 11, src: '/our captures/maturnity.jpeg', category: 'Maternity', title: 'Maternity Session 1' },
+  { id: 12, src: '/our captures/maturnity1.jpeg', category: 'Maternity', title: 'Maternity Session 2' },
+  { id: 13, src: '/our captures/maturnity2.jpeg', category: 'Maternity', title: 'Maternity Session 3' },
+  { id: 14, src: '/our captures/maturnity3.jpeg', category: 'Maternity', title: 'Maternity Session 4' },
+  { id: 15, src: '/our captures/haldi.jpg.jpg', category: 'Haldi Event', title: 'Haldi Ceremony' },
+  { id: 16, src: '/passport size image.png', category: 'Passport', title: 'Passport Size Photo' },
+]
