@@ -28,6 +28,17 @@ export default function Hero() {
           </span>
         </motion.div>
 
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.1 }}
+          className="mb-6"
+        >
+          <span className="font-serif text-4xl md:text-6xl lg:text-7xl font-bold text-white tracking-wide">
+            Smile Photography
+          </span>
+        </motion.div>
+
         <motion.h1
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}

@@ -43,7 +43,7 @@ export const services = [
     id: 6,
     title: 'Baby & Kids Photography',
     description: 'Adorable moments, beautifully preserved.',
-    image: '/baby.jpg',
+    image: '/baby photoes/baby.png',
     category: 'Baby',
     includes: ['Safe environment', 'Props available', 'Parents included', 'Print-ready files'],
   },
